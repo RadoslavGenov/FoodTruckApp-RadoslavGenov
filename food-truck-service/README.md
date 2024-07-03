@@ -40,7 +40,7 @@ $ docker-compose up --build
 
 The application will be accessible at http://localhost:3000.
 
-## Running the app without Docker
+## Running the app without Docker (mongodb needs to be installed)
 
 ```bash
 # development
