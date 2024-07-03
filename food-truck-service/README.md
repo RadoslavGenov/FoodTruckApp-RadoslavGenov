@@ -63,7 +63,6 @@ Using a modular approach for Nest good practices, for better separation of conce
 ├── README.md
 ├── data.ts
 ├── docker-compose.yml
-├── init-db.js
 ├── logs.txt
 ├── nest-cli.json
 ├── package-lock.json
